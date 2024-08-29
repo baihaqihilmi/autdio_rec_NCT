@@ -1,1 +1,6 @@
-
+groq 
+os
+datetime
+gtts
+playsound
+speech_recognition
